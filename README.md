@@ -34,3 +34,17 @@ Removing the ninth grade results does not change the school averages enough to a
 
 * **How are the math scores per grade affected by removing 9th grade scores?**
 
+The charts below show that the other grades are not affected by the removal of the 9th grade math scores. The only change is the replacement of the 9th grade scores with "nan" for Thomas High School. 
+
+
+<p align="center" width="100%">
+    <img width="41%" src=https://user-images.githubusercontent.com/105991478/178162454-2b6d1f77-034b-4242-8500-b8966d9ffa45.png>  <img width="40%" src= https://user-images.githubusercontent.com/105991478/178162656-034d60af-ef5d-4be7-8f2c-a6cf1de1fe07.png>
+</p>
+
+* **How are the reading scores per grade affected by removing 9th grade scores?**
+Similar to the math scores, the reading scores of the other grades and schools are not affected, but the results for 9th grade at Thomas high school are changed to "nan"
+<p align="center" width="100%">
+<img width= "40%" src=https://user-images.githubusercontent.com/105991478/178162736-0ff2e2fd-6c87-426a-b591-6b8eed313c43.png>
+</p>
+
+
