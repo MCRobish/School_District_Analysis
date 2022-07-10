@@ -47,11 +47,23 @@ Similar to the math scores, the reading scores of the other grades and schools a
 </p>
 
 
-**How are scores by school spending affected by the removal of ninth grade scoring?**
+* **How are scores by school spending affected by the removal of ninth grade scoring?**
+
+Thomas High School is in the $631-645 spending range, with a per student budget of $638.00. Because of this, it is possible to see a slight difference in the average scores for the $631-645 spending categories. Similar to before, this different is very insignificant and does not affect analysis in this case. 
 
 Spending Ranges Compared to Average Scores with THS 9th Grade Included 
-![spending before](https://user-images.githubusercontent.com/105991478/178163031-04738502-0fdc-4f3c-82fe-fee907bb2383.png)
+    ![spending before](https://user-images.githubusercontent.com/105991478/178163031-04738502-0fdc-4f3c-82fe-fee907bb2383.png)
 
 Spending Ranges Compared to Average Scores with THS 9th Grade Excluded
-![spending after](https://user-images.githubusercontent.com/105991478/178163057-dfde6d4b-a627-4036-8b4b-bec000fa487e.png)
+    ![spending after](https://user-images.githubusercontent.com/105991478/178163057-dfde6d4b-a627-4036-8b4b-bec000fa487e.png)
+
+* **How are scores by school size affected by the removal of ninth grade scoring?**
+Thomas High School has 1635 total students and falls into the "Medium Size" category. Because of this, it is possible to see a slight difference in the results for medium sized schools before and after removal. However, this difference is very slight and insignificant to analysis. 
+
+Relative School Size Compared to Average Test Scores with THS 9th Grade Included
+    ![size before](https://user-images.githubusercontent.com/105991478/178163207-786611c7-d3f5-4103-ac4d-836ed84d852e.png)
+
+Relative School Size Compared to Average Test Scores with THS 9th Grade Excluded
+    ![size after](https://user-images.githubusercontent.com/105991478/178163224-4b4fb3d3-5b4c-466f-8096-63fcec1c9ab1.png)
+    
 
