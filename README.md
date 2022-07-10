@@ -32,4 +32,5 @@ Removing the ninth grade results does not change the school averages enough to a
   
   ![ranking after removal](https://user-images.githubusercontent.com/105991478/178162063-938684de-ba35-4ed7-a393-4cf2254f127f.png)
 
+* **How are the math scores per grade affected by removing 9th grade scores?**
 
