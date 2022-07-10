@@ -67,3 +67,16 @@ Relative School Size Compared to Average Test Scores with THS 9th Grade Excluded
     ![size after](https://user-images.githubusercontent.com/105991478/178163224-4b4fb3d3-5b4c-466f-8096-63fcec1c9ab1.png)
     
 
+* **How are scores by school type affected by the removal of ninth grade scoring?**
+* 
+Thomas High School is a charter school. The impact of removing the ninth grade test scores to the overall comparison for district versus charter schools is so small that it is eliminated by rounding. 
+
+Average Scores for District Schools Compared to Charter Schools with THS 9th Graders Included
+![type before](https://user-images.githubusercontent.com/105991478/178163551-f90503b2-7d85-483b-a2b5-364ebba9e218.png)
+
+Average Scores for District Schools Compared to Charter Schools with THS 9th Graders Excluded 
+![type after](https://user-images.githubusercontent.com/105991478/178163605-a7340527-7581-4d0c-b4f2-5599a8281b70.png)
+
+## Summary
+
+Generally, the removal of the ninth grade test scores from Thomas High School does not impact the test results at the district level. There is some impact at the school level, but even this is not enough to change school rankings or give different results to the relationships between test scores and school size, spending or school type. 
