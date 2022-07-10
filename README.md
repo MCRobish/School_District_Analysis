@@ -1,6 +1,6 @@
 # School District Grading Analysis
 ## Purpose
-The purpose of this analysis is to analyze the impact of different factors, such as spending per student and school type, on the average test scores for math and reading across different high schools. In addition, there was some evidence of academic dishonestly amongst the 9th grade for Thomas High School, so it was requested to have this information removed from the data set. 
+The purpose of this analysis is to analyze the impact of different factors, such as spending per student and school type, on the average test scores for math and reading across different high schools. In addition, there was some evidence of academic dishonestly amongst the 9th grade for Thomas High School, so it was requested to have this information removed from the data set. It is necessary to understand the impact of this removal at the school and district levels before completing the removal. 
 ## Results of Score Removal 
 * **How is the district summary affected by the removal of THS 9th grade scores?** 
 Overall, the passing percentages did not significantly change with the removal of the 9th Grade Test Scores. In the tables below, the total number of students still includes the 9th graders from Thomas High School because they are still enrolled; however, the first table includes their test results and the second does not. 
@@ -33,7 +33,6 @@ Removing the ninth grade results does not change the school averages enough to a
   ![ranking after removal](https://user-images.githubusercontent.com/105991478/178162063-938684de-ba35-4ed7-a393-4cf2254f127f.png)
 
 * **How are the math scores per grade affected by removing 9th grade scores?**
-
 The charts below show that the other grades are not affected by the removal of the 9th grade math scores. The only change is the replacement of the 9th grade scores with "nan" for Thomas High School. 
 
 
@@ -47,4 +46,12 @@ Similar to the math scores, the reading scores of the other grades and schools a
 <img width= "40%" src=https://user-images.githubusercontent.com/105991478/178162736-0ff2e2fd-6c87-426a-b591-6b8eed313c43.png>
 </p>
 
+
+**How are scores by school spending affected by the removal of ninth grade scoring?**
+
+Spending Ranges Compared to Average Scores with THS 9th Grade Included 
+![spending before](https://user-images.githubusercontent.com/105991478/178163031-04738502-0fdc-4f3c-82fe-fee907bb2383.png)
+
+Spending Ranges Compared to Average Scores with THS 9th Grade Excluded
+![spending after](https://user-images.githubusercontent.com/105991478/178163057-dfde6d4b-a627-4036-8b4b-bec000fa487e.png)
 
